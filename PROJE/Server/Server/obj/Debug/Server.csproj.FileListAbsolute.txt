@@ -1,0 +1,30 @@
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\bin\Debug\Server.exe.config
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\bin\Debug\Server.exe
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\bin\Debug\Server.pdb
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.exe
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Server\Server\obj\Debug\Server.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\bin\Debug\Server.exe.config
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\bin\Debug\Server.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\bin\Debug\Server.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.ServerForm.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Server\Server\obj\Debug\Server.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\bin\Debug\Server.exe.config
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\bin\Debug\Server.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\bin\Debug\Server.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.ServerForm.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Server\Server\obj\Debug\Server.pdb

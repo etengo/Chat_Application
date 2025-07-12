@@ -1,0 +1,30 @@
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\bin\Debug\Client.exe.config
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\bin\Debug\Client.exe
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\bin\Debug\Client.pdb
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.exe
+C:\Users\sibel\OneDrive\Belgeler\2024-2025\{BİLGİSAYAR AĞLARININ PROGRAMLANMASI}\PROJE\Client\Client\obj\Debug\Client.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\bin\Debug\Client.exe.config
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\bin\Debug\Client.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\bin\Debug\Client.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.ClientForm.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\Client\Client\obj\Debug\Client.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\bin\Debug\Client.exe.config
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\bin\Debug\Client.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\bin\Debug\Client.pdb
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.ClientForm.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.exe
+C:\ENES\DERS\Gazi_Ders\2. Sınıf\2. DÖNEM\BİLGİSAYAR AĞLARININ PROGRAMLANMASI\PROJE\PROJE\Client\Client\obj\Debug\Client.pdb
