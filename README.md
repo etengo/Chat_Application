@@ -1,16 +1,18 @@
 # 💬 C# Chat Application (Client-Server)
 
-This is a Windows Forms-based chat application built using C# and .NET. It follows a client-server architecture and allows users to communicate over a local network with added support for image and file sharing.
+A full-featured TCP-based chat application developed in C# using Windows Forms and .NET. The app supports text messaging, private messages, image and file sharing, persistent message history, and user management.
 
 ## 🚀 Features
 
-- ✅ Real-time messaging between clients
+- ✅ Real-time messaging between connected clients
 - 📡 Connect using IP address, port, and username
-- 🖼️ Image sharing: Sent images appear directly in the chat area
-- 📁 File sharing: Displays file name and extension, with a button to open the file location
-- 👥 Displays list of connected users on the server
-- 🔌 "Connect" and "Disconnect" buttons for easy session management
-- 📂 User-friendly GUI built with Windows Forms
+- 💬 **Private Messaging** with `/pm Username message` syntax (only the target user sees the message)
+- 🧠 **Message History**: All messages are saved to a text file and loaded when the server starts
+- 🖼️ Image sharing: Sent images are displayed directly in the chat window
+- 📁 File sharing: File name and extension are shown, with a button to open file location
+- 👥 Displays a real-time list of connected users on the server
+- 🔌 "Connect" and "Disconnect" buttons for easy connection management
+- 🖼️ Intuitive and simple GUI with Windows Forms
 
 ## 🧪 Technologies Used
 
@@ -19,14 +21,14 @@ This is a Windows Forms-based chat application built using C# and .NET. It follo
 - TCP Sockets (`System.Net.Sockets`)
 - Multithreading (`System.Threading`)
 - File I/O (`System.IO`)
-- Image handling (`System.Drawing`)
+- Image Handling (`System.Drawing`)
 
-## 🖼️ Screenshots
+## 📷 Screenshots
 
-*Coming soon... (You can add screenshots here)*
+> *(You can add images here later)*
 
-## 📦 How to Run
+## 📂 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kullanıcı_adın/chat-app.git
+   git clone https://github.com/yourusername/chat-app.git
